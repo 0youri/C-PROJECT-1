@@ -1,6 +1,3 @@
-Lucas Brustolin 11805322
-Youri Novikov 12002123
-Nicolas Planche 11805532
 # Module image pour LIFAP4
 
 Module image permet de générer 2 images et d'ouvrir une fenetre avec une image qu'on peut zoomer/dezoomer avec les touches T/G 
